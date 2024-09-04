@@ -1,10 +1,10 @@
-nginx:1.25-alpine
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
-emqx/emqx:5.8.0
-mysql:5.7
-bitnami/kafka:3.6.2-debian-12-r12
-bitnami/elasticsearch:7.10.2
-redis:6-alpine
+#nginx:1.25-alpine
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
+#--platform=linux/arm64 xiaoyaliu/alist
+#emqx/emqx:5.8.0
+#mysql:5.7
+#bitnami/kafka:3.6.2-debian-12-r12
+#bitnami/elasticsearch:7.10.2
+#redis:6-alpine
 bitnami/mysql:5.7.43-debian-11-r73
