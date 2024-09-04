@@ -7,3 +7,4 @@ mysql:5.7
 bitnami/kafka:3.6.2-debian-12-r12
 bitnami/elasticsearch:7.10.2
 redis:6-alpine
+bitnami/mysql:5.7.43-debian-11-r73
