@@ -8,4 +8,5 @@
 #bitnami/elasticsearch:7.10.2
 #redis:6-alpine
 #bitnami/mysql:5.7.43-debian-11-r73
-bitnami/keycloak:25.0.4-debian-12-r3
+#bitnami/keycloak:25.0.4-debian-12-r3
+yisier1/nps:v0.26.19
