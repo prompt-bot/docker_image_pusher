@@ -18,4 +18,5 @@
 #quay.io/keycloak/keycloak:22.0.0
 #postgres:15-alpine
 #prom/prometheus:v2.55.1
-bitnami/blackbox-exporter:0.25.0
+#bitnami/blackbox-exporter:0.25.0
+grafana/grafana:10.4.12
