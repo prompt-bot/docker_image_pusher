@@ -17,4 +17,5 @@
 #emqx/emqx:5.6.1
 #quay.io/keycloak/keycloak:22.0.0
 #postgres:15-alpine
-prom/prometheus:v2.55.1
+#prom/prometheus:v2.55.1
+bitnami/blackbox-exporter:0.25.0
