@@ -20,4 +20,5 @@
 #prom/prometheus:v2.55.1
 #bitnami/blackbox-exporter:0.25.0
 #grafana/grafana:10.4.12
-openjdk:8
+#openjdk:8
+yisier1/npc:v0.26.18
