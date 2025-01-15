@@ -22,4 +22,5 @@
 #grafana/grafana:10.4.12
 #openjdk:8
 #yisier1/npc:v0.26.18
-jeessy/ddns-go:v6.7.6
+#jeessy/ddns-go:v6.7.6
+emqx-operator-controller:2.2.26
