@@ -25,4 +25,5 @@
 #jeessy/ddns-go:v6.7.6
 #emqx/emqx-operator-controller:2.2.26
 #emqx:5.6.1
-ossrs/srs:5.0.166
+#ossrs/srs:5.0.166
+ankane/pgvector:v0.5.1
