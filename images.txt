@@ -26,4 +26,5 @@
 #emqx/emqx-operator-controller:2.2.26
 #emqx:5.6.1
 #ossrs/srs:5.0.166
-ankane/pgvector:v0.5.1
+#ankane/pgvector:v0.5.1
+bitnami/rabbitmq:4.0.5-debian-12-r0
