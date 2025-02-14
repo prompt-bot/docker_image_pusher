@@ -31,3 +31,4 @@
 #bitnami/mongodb:8.0.4-debian-12-r0
 #tdengine/tdengine:3.3.3.0
 tdengine/tdengine:3.3.5.2
+xynova/aws-kubectl
